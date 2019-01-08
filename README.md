@@ -1,2 +1,2 @@
 # icicsc_brochure
-Project for designing the brochure.
+Project for designing the brochure..
